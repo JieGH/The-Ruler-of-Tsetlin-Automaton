@@ -14,6 +14,8 @@ The view of the actual PCB is:
 ![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture.JPG)
 
 
+
+
 Repository Contents
 -------------------
 The Gerber files, schematic, PCB view, BOM file and hardware captures are shown in repository Contents:
