@@ -19,16 +19,22 @@ Repository Contents
 The Gerber files, schematic, PCB view, BOM file and hardware captures are shown in repository Contents:
 
 /Gerber
+
 /Schematic.pdf
+
 /3D_View_PCB.pdf
+
 /BOM.xls
+
 /capture.jpg
 
 
 Authorship
 -------------------
 Mr Jie Lei
+
 jieleicn@gmail.com
+
 www.linkedin.com/in/jie-l-142889139/
 
 
