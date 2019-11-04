@@ -1,16 +1,16 @@
 # The-Ruler-of-Tsetlin-Automaton
 
-This project is a visulated demo of Tsetlin Automaton proposed by Michael Lvovitch Tsetlin. The algorithum of Tsetlin Automaton can be found in:
+This project is a visualised demo of Tsetlin Automaton proposed by Michael Lvovitch Tsetlin. The algoritum of Tsetlin Automaton can be found in:
 https://github.com/cair/convolutional-tsetlin-machine
 
-A newrly invented AI algorithum Tsetlin Machine had been proposed by Dr Ole-Christoffer GranmoTsetlin and his team. The details of this algorithum can be found in  
+A newly invented AI algorithm Tsetlin Machine had been proposed by Dr Ole-Christoffer GranmoTsetlin and his team. The details of this algorithm can be found in  
 https://github.com/cair/TsetlinMachine
 https://arxiv.org/abs/1804.01508
 
 The view of the actual PCB is:
 ![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture.JPG)
 
-The simple video demo can be found in this Youtube link:
+The simple video demo can be found in this YouTube link:
 https://youtu.be/LltDhg4ZuWo
 
 
