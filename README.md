@@ -1,6 +1,6 @@
 # The-Ruler-of-Tsetlin-Automaton
 
-This project is a visualised demo of Tsetlin Automaton proposed by Michael Lvovitch Tsetlin. The algoritum of Tsetlin Automaton can be found in:
+This project is a visualised demo of Tsetlin Automaton. The Tselin Automaton algorithm was proposed by Michael Lvovitch Tsetlin. The algoritum of Tsetlin Automaton can be found in:
 https://github.com/cair/convolutional-tsetlin-machine
 
 A newly invented AI algorithm Tsetlin Machine had been proposed by Dr Ole-Christoffer GranmoTsetlin and his team. The details of this algorithm can be found in  
