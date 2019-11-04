@@ -7,28 +7,27 @@ A newrly invented AI algorithum Tsetlin Machine had been proposed by Dr Ole-Chri
 https://github.com/cair/TsetlinMachine
 https://arxiv.org/abs/1804.01508
 
-The simple video demo can be found in this Youtube link:
-https://youtu.be/LltDhg4ZuWo
-
 The view of the actual PCB is:
 ![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture.JPG)
 
-
+The simple video demo can be found in this Youtube link:
+https://youtu.be/LltDhg4ZuWo
 
 
 Repository Contents
 -------------------
 The Gerber files, schematic, PCB view, BOM file and hardware captures are shown in repository Contents:
 
-*/Gerber
+/Gerber
 
-*/Schematic.pdf
+/Schematic.pdf
 
-*/3D_View_PCB.pdf
+/3D_View_PCB.pdf
 
-*/BOM.xls
+/BOM.xls
 
-*/capture.jpg
+/capture.jpg
+
 
 
 
