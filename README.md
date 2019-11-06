@@ -9,7 +9,7 @@ https://github.com/cair/TsetlinMachine
 https://arxiv.org/abs/1804.01508
 
 The view of the actual PCB is:
-![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture.JPG)
+![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture_new.JPG)
 
 The simple video demo can be found in this YouTube link:
 https://youtu.be/LltDhg4ZuWo
