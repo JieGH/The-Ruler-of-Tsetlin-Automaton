@@ -5,6 +5,7 @@ https://github.com/cair/convolutional-tsetlin-machine
 
 A newly invented AI algorithm Tsetlin Machine had been proposed by Dr Ole-Christoffer GranmoTsetlin and his team. The details of this algorithm can be found in  
 https://github.com/cair/TsetlinMachine
+
 https://arxiv.org/abs/1804.01508
 
 The view of the actual PCB is:
