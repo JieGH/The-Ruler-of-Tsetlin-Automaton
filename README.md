@@ -7,7 +7,7 @@ A newly invented AI algorithm Tsetlin Machine had been proposed by Dr Ole-Christ
 https://github.com/cair/TsetlinMachine and https://arxiv.org/abs/1804.01508
 
 -------------------
-The ruler of Tsetlin automaton is a simple visulaised demo of 6 states Testlin Automation. The red LEDs will indicate the state of Tsetlin Automaton and the state will be changed when the 'clock' signal had been triggered. The changing of the states will follow the Tsetlin Automaton algorithm which are: 1) states will migrate towards middle states when penalty had been issued, the state will change to first or final states when reward had been issued. 
+The ruler of Tsetlin automaton is a simple visualised demo of 6 states Testlin Automation. The red LEDs will indicate the state of Tsetlin Automaton and the state will be changed when the 'clock' signal had been triggered. The changing of the states will follow the Tsetlin Automaton algorithm which are: 1) states will migrate towards middle states when penalty had been issued, the state will change to first or final states when reward had been issued. 
 
 The simple video demo can be found in this YouTube link:
 https://youtu.be/LltDhg4ZuWo
