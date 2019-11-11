@@ -1,6 +1,6 @@
 # The-Ruler-of-Tsetlin-Automaton
 
-This project is a visualised demo / Art Work of Tsetlin Automaton. The Tselin Automaton algorithm was proposed by Michael Lvovitch Tsetlin. An another Tsetlin art work can be view in:
+This project is a visualised demo / Art Work of Tsetlin Automaton. The Tselin Automaton algorithm was proposed by Michael Lvovitch Tsetlin. An another Tsetlin art work can be view in:https://github.com/JieGH/The-Ruler-of-Tsetlin-Automaton/blob/master/Capture_another.JPG
 
 
 The algoritum of Tsetlin Automaton can be found in:
