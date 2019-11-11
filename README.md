@@ -7,15 +7,18 @@ The algoritum of Tsetlin Automaton can be found in:
 https://github.com/cair/convolutional-tsetlin-machine
 
 A newly invented AI algorithm Tsetlin Machine had been proposed by Dr Ole-Christoffer GranmoTsetlin and his team. The details of this algorithm can be found in  
-https://github.com/cair/TsetlinMachine
+https://github.com/cair/TsetlinMachine and https://arxiv.org/abs/1804.01508
 
-https://arxiv.org/abs/1804.01508
-
-The view of the actual PCB is:
-![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture.JPG)
+-------------------
+The ruler of Tsetlin automaton is a simple visualised demo of 6 states Testlin Automation. The red LEDs will indicate the state of Tsetlin Automaton and the state will be changed when the 'clock' signal had been triggered. The changing of the states will follow the Tsetlin Automaton algorithm which are: 1) states will migrate towards middle states when penalty had been issued, the state will change to first or final states when reward had been issued. 
 
 The simple video demo can be found in this YouTube link:
 https://youtu.be/LltDhg4ZuWo
+
+The view of the actual PCB is:
+![overview](https://raw.githubusercontent.com/JieGH/The-Ruler-of-Tsetlin-Automaton/master/Capture_new.JPG)
+
+
 
 
 Repository Contents
