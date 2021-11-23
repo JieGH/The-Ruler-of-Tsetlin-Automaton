@@ -44,8 +44,6 @@ Authorship
 -------------------
 Mr Jie Lei
 
-jieleicn@gmail.com
-
 www.linkedin.com/in/jie-l-142889139/
 
 
